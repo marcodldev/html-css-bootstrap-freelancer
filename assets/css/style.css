@@ -13,3 +13,7 @@
 .bg-green {
     background-color: #1abc9c;
 }
+
+li {
+    list-style: none;
+}
