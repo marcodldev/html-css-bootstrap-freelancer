@@ -33,6 +33,13 @@ li {
     border-radius: 20px;
 }
 
+.barrab {
+    width: 30px;
+    height: 5px;
+    background-color: black;
+    border-radius: 20px;
+}
+
 img {
     width: 100%;
 }
