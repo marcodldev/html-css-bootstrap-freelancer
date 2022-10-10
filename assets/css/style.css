@@ -9,3 +9,7 @@
      flex-grow: 0; 
     align-items: center;
 }
+
+.bg-green {
+    background-color: #1abc9c;
+}
