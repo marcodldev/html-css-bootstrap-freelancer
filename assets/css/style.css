@@ -4,6 +4,10 @@
     background-color: #2c3e50;
 }
 
+.bg-greysh {
+    background-color: #3a546d;
+}
+
 .navbar-collapse {
     flex-basis: 100%;
      flex-grow: 0; 
@@ -14,6 +18,17 @@
     background-color: #1abc9c;
 }
 
+.text-green {
+    color: #1db398;
+}
+
 li {
     list-style: none;
+}
+
+.barra {
+    width: 30px;
+    height: 5px;
+    background-color: white;
+    border-radius: 20px;
 }
