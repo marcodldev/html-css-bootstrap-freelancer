@@ -44,19 +44,3 @@ img {
     width: 100%;
 }
 
-            /* MEDIA QUERYS */
-
-                /* TABLET  */
-@media screen and (max-width:992px) {
-
-#colonneimg {
-    
-}
-    
-}
-
-            /* MOBILE  */
-
- @media screen and (max-width:425px) {
-
- }
