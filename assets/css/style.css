@@ -44,3 +44,9 @@ img {
     width: 100%;
 }
 
+#iconeft i {
+        background-color: rgba(255, 255, 255, 0);
+        border-radius: 50%;
+        border: 1px solid white;
+        padding: 10px;
+}
